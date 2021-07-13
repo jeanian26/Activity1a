@@ -1,0 +1,43 @@
+.container{
+    max-width:1080px;
+    padding-left:50px;
+    padding-right:50px;
+    margin:0 auto;
+  }
+
+.topbar{
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+.topbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Navbar{
+    background-color: #080808;
+    padding: 20px 0;
+}
+.Navbar ul{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+}
+.Navbar ul li{
+    padding-right: 40px;
+    font-size: 14px;
+}
+.Navbar ul li a{
+    color:white;
+    text-decoration: none;
+}
+.Banner{
+    background-color: #fe6f61;
+    padding:60px 0;
+}
+.Banner h1{
+    font-size: 36px;
+    color:white;
+    text-align: center;
+}
